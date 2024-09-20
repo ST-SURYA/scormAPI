@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":157,"text":"So what does this all mean for our friend Alex?"},{"start":3811,"text":"We know that usually, Alex is calm and performs well."},{"start":8071,"text":"This would suggest that Alex is thriving and seems to have good mental health,"},{"start":14322,"text":"but lately, Alex has been sad, irritable and has low energy."},{"start":19888,"text":"This looks like mild distress."},{"start":22725,"text":"After two weeks, the behaviour escalates,"},{"start":26229,"text":"Alex is consistently negative and doesn't seem to be getting much sleep."},{"start":31405,"text":"This could mean that Alex is experiencing moderate to marked distress."},{"start":35587,"text":"Okay, so we can map behaviour onto the Mental Health Continuum,"},{"start":40651,"text":"but how should we respond when we see these behaviours in a colleague?"},{"start":44651,"text":"Let's take a look at a real life example."}]}]};
+    window.globalLoadJsAsset('story_content/6AQkfXeIHV3_transcripts.js', JSON.stringify(data));
+})();

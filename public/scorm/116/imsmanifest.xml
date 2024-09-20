@@ -1,0 +1,160 @@
+<?xml version="1.0" standalone="no" ?><manifest identifier="com.scorm.elucidat.build.63dbd256f3675_1675350673" version="1"
+    xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+    xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:lom="http://ltsc.ieee.org/xsd/LOM"
+    xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                       http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+                       http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd
+                       http://ltsc.ieee.org/xsd/LOM lom.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+      </metadata>
+  <!-- There is just one organization. The organization contains just one item.-->
+	<organizations default="elucidat_63dbd256f3675_1675350673">
+		<organization identifier="elucidat_63dbd256f3675_1675350673">
+			<title>The Prevent Duty in Higher Education: an introduction (2021)</title>
+			<item identifier="item_63dbd256f3675_1675350673" identifierref="resource_63dbd256f3675_1675350673">
+				<title>The Prevent Duty in Higher Education: an introduction (2021)</title>
+				<adlcp:masteryscore>80</adlcp:masteryscore>
+			</item>
+		</organization>
+	</organizations>
+	<resources>
+		<resource identifier="resource_63dbd256f3675_1675350673" type="webcontent" adlcp:scormtype="sco" href="launch.html">
+			<file href="login.html"/>
+			<file href="pages/6242f2c046ef2.js"/>
+			<file href="pages/6242f2c0abb30.js"/>
+			<file href="pages/6242f2c06d316.js"/>
+			<file href="pages/6242f2c0833a2.js"/>
+			<file href="pages/6242f2c05f926.js"/>
+			<file href="pages/6242f2c07d437.js"/>
+			<file href="pages/6242f2c033d2b.js"/>
+			<file href="pages/6242f2c08f386.js"/>
+			<file href="pages/6242f2c0a2699.js"/>
+			<file href="pages/6242f2c064804.js"/>
+			<file href="pages/6242f2c06a646.js"/>
+			<file href="pages/6242f2c0700aa.js"/>
+			<file href="pages/6242f2c0a704a.js"/>
+			<file href="pages/6242f2c0a8f77.js"/>
+			<file href="pages/6242f2c05ac94.js"/>
+			<file href="pages/6242f2c09b15d.js"/>
+			<file href="pages/6242f2c05d769.js"/>
+			<file href="pages/6242f2c076e98.js"/>
+			<file href="pages/6242f2c0562b5.js"/>
+			<file href="pages/6242f2c0513a9.js"/>
+			<file href="pages/6242f2c0625f5.js"/>
+			<file href="pages/6242f2c025ba0.js"/>
+			<file href="pages/6242f2c098e1f.js"/>
+			<file href="pages/6242f2c09dbe8.js"/>
+			<file href="pages/6242f2c0b3339.js"/>
+			<file href="pages/6242f2c07a9ee.js"/>
+			<file href="pages/6242f2c02c330.js"/>
+			<file href="pages/6242f2c0582b6.js"/>
+			<file href="pages/6242f2c0a4524.js"/>
+			<file href="pages/6242f2c0b5f18.js"/>
+			<file href="pages/6242f2c0b89fa.js"/>
+			<file href="pages/6242f2c073f89.js"/>
+			<file href="pages/6242f2c096159.js"/>
+			<file href="pages/6242f2c09fb70.js"/>
+			<file href="pages/6242f2c09145e.js"/>
+			<file href="pages/6242f2c0bb3c9.js"/>
+			<file href="pages/6242f2c0542c6.js"/>
+			<file href="pages/6242f2c08be0d.js"/>
+			<file href="pages/6242f2c0ae699.js"/>
+			<file href="pages/6242f2c08677f.js"/>
+			<file href="pages/6242f2c080065.js"/>
+			<file href="pages/6242f2c0674ab.js"/>
+			<file href="pages/6242f2c04db7c.js"/>
+			<file href="pages/6242f2c0bde94.js"/>
+			<file href="pages/6242f2c0b12f0.js"/>
+			<file href="pages/6242f2c088bbf.js"/>
+			<file href="pages/6242f2c03af7e.js"/>
+			<file href="pages/6242f2c09434d.js"/>
+			<file href="launch.html"/>
+			<file href="assets/85bad796f441edb5ff199df248f049e0.png"/>
+			<file href="assets/301131fb03a0f87ba9a948b520e42947.png"/>
+			<file href="assets/9724e70bcf0ac3a64859c67c8810e1d7.jpg"/>
+			<file href="assets/545f16637d8dfd5608cde4ba71a11f4b.jpg"/>
+			<file href="assets/a896a4f9a6752c15fcb91c661d935b4a.jpg"/>
+			<file href="assets/9e2bc22388cd4045e50b196bbdbd804b.jpg"/>
+			<file href="assets/e2d67c413f8b96a15e616675cfe497d5.png"/>
+			<file href="assets/64986bb1ed814824a3696841f3e246b3.jpg"/>
+			<file href="assets/5cc196b191e6840febc3955fc2040fb5.png"/>
+			<file href="assets/bb79c27889824e4114b5e2f2e6156c93.jpg"/>
+			<file href="assets/364333aa42992e3fff4ec9953c61d689.jpg"/>
+			<file href="assets/be0d9235922614587c7eb224d5cfbfcb.png"/>
+			<file href="assets/c237c7d9f5ed34341f3cb87662d78a8d.png"/>
+			<file href="assets/18fe745d22ff4d7c7e4b18e8b8dca2d0.png"/>
+			<file href="assets/585a77d211b22b2cc50a0e48f8049c6e.jpg"/>
+			<file href="assets/17da935cfa366fbb8bee60149bcd30b1.png"/>
+			<file href="assets/eb35226af2be7934b0cd1c84c87d6799.jpg"/>
+			<file href="assets/cdcb580393b1417517e15fbde2ebf5b1.jpg"/>
+			<file href="assets/4c2115f5589ef10afa42ffc62ef68322.png"/>
+			<file href="assets/63dbd256f3675.js"/>
+			<file href="assets/e67b703e66b9999ac3f589deb124ca99.jpg"/>
+			<file href="assets/5600ee254aea60b2f30b44c94258aaf6.jpg"/>
+			<file href="assets/a58c686d0773f0becb0b15b6fde52963.jpg"/>
+			<file href="assets/31563b775641bcfa259e927ad35982ee.jpg"/>
+			<file href="assets/c41f142dab2b327ece3d5eaa364409df.jpg"/>
+			<file href="assets/959a7c6e84ad1bfba9503993f417c4a9.jpg"/>
+			<file href="assets/c375c22d964d024174ac03efd04e8323.png"/>
+			<file href="assets/1d7e4463c0e1330683735680ff784f78.jpg"/>
+			<file href="assets/63dbd256f3675.css"/>
+			<file href="assets/c394507b111ceff576232520dad2a00f.jpg"/>
+			<file href="assets/c05d1b328aeee1ed1b905958143b274f.jpg"/>
+			<file href="assets/dafd9da4ffd56143fa3625bf3ed86e0d.jpg"/>
+			<file href="assets/160f48c1bf9293aa2f5956ef7323de94.jpg"/>
+			<file href="assets/c5896b20d7fc39cf452b9b2d8751268b.jpg"/>
+			<file href="assets/b4241fd0c39a54c382c4c3647d219bfe.jpg"/>
+			<file href="assets/253086c5569fa4cf99406b184b41ca64.jpg"/>
+			<file href="assets/4b3acb156df2494dcb03c63a47aedf5b.png"/>
+			<file href="assets/5bb5ac7d188c6a3aa9a0c1bb9c22fea7.png"/>
+			<file href="assets/dbadff8a1452f91549b3b56110905bc7.jpg"/>
+			<file href="assets/dcb422fede25fc908c23cb334f49d153.jpg"/>
+			<file href="assets/bc0a7bbc12488cac30893dcbd1e4c7e0.png"/>
+			<file href="assets/25e4b9f17c0ace7a3595720b309e09ea.jpg"/>
+			<file href="vendor/material/icomoon.ttf"/>
+			<file href="vendor/material/icomoon.eot"/>
+			<file href="vendor/material/icomoon.woff"/>
+			<file href="vendor/material/icomoon.svg"/>
+			<file href="vendor/elucidat-v5.0.min.js"/>
+			<file href="vendor/mediaelement/silverlightmediaelement.xap"/>
+			<file href="vendor/mediaelement/controls-ted.png"/>
+			<file href="vendor/mediaelement/flashmediaelement.swf"/>
+			<file href="vendor/mediaelement/controls.svg"/>
+			<file href="vendor/mediaelement/bigplay.png"/>
+			<file href="vendor/mediaelement/controls-wmp.png"/>
+			<file href="vendor/mediaelement/flashmediaelement-cdn-2.22.0.swf"/>
+			<file href="vendor/mediaelement/flashmediaelement-cdn.swf"/>
+			<file href="vendor/mediaelement/controls.png"/>
+			<file href="vendor/mediaelement/background.png"/>
+			<file href="vendor/mediaelement/mediaelement-and-player.min.js"/>
+			<file href="vendor/mediaelement/bigplay.svg"/>
+			<file href="vendor/mediaelement/controls-wmp-bg.png"/>
+			<file href="vendor/mediaelement/loading.gif"/>
+			<file href="vendor/modernizr-2.6.2.min.js"/>
+			<file href="vendor/preview_commenting.build.min.js"/>
+			<file href="vendor/typicon/icomoon.ttf"/>
+			<file href="vendor/typicon/icomoon.eot"/>
+			<file href="vendor/typicon/icomoon.woff"/>
+			<file href="vendor/typicon/icomoon.svg"/>
+			<file href="vendor/fontawesome/icomoon.ttf"/>
+			<file href="vendor/fontawesome/icomoon.eot"/>
+			<file href="vendor/fontawesome/icomoon.woff"/>
+			<file href="vendor/fontawesome/icomoon.svg"/>
+			<file href="vendor/jquery.xdr.js"/>
+			<file href="vendor/bootstrap/fontawesome-webfont.woff"/>
+			<file href="vendor/bootstrap/glyphicons-halflings.png"/>
+			<file href="vendor/bootstrap/fontawesome-webfont.eot"/>
+			<file href="vendor/bootstrap/glyphicons-halflings-white.png"/>
+			<file href="vendor/bootstrap/fontawesome-webfont.woff2"/>
+			<file href="vendor/bootstrap/fontawesome-webfont.svg"/>
+			<file href="vendor/bootstrap/fontawesome-webfont.ttf"/>
+			<file href="vendor/style-editcontrols.build.min.css"/>
+			<file href="vendor/elucidat-v2.0.min.css"/>
+			<file href="vendor/placeholder-image.png"/>
+		</resource>
+	</resources>
+</manifest>
